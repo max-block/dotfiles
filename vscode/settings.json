@@ -1,0 +1,13 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.fontSize": 18,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": false,
+    "workbench.editor.showTabs": false,
+    "breadcrumbs.enabled": true,
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Default Light+",
+    "editor.fontFamily": "JetBrains Mono"
+    
+}
